@@ -14,16 +14,29 @@ Das Produkt wird als modulares Open-Source Bildungskit entwickelt, das Lehrmater
 - **Gemeinschaft und Zusammenarbeit** fördern, indem Projekte und Herausforderungen enthalten sind, die in Teams bearbeitet werden können.
 - Eine **Online-Plattform** nutzen, auf der Ressourcen geteilt, Projekte vorgestellt und Erfahrungen ausgetauscht werden können. Diese Plattform dient auch als Support-Netzwerk für Lehrkräfte und Betreuer.
 
-### Maker-Module
-Grundbaustein des selbstständigen Entdeckens der MINT-Welt ist das Maker-Modul
-Ein Maker-Modul vereint grundsätzlich folgende Eigenschaften: 
+### Altersgruppen
+Für ein Makerspace, das sich auf das Lernen und die Förderung von STEM-Inhalten konzentriert, ist es wichtig, dass die Bezeichnungen der Mitgliederlevels nicht nur das Alter oder die Schulstufe der Kinder widerspiegeln, sondern auch die Kreativität und den Entdeckergeist, die in einem Makerspace gefördert werden sollen. Hier sind einige Vorschläge für coole und inspirierende Bezeichnungen für die verschiedenen Altersgruppen:
 
-- **Identifikation** Jedes Modul trägt einen eindeutigen Namen, eine Versionssnummer und ein Logo.
-- **Definierter Zeitbedarf** Die Inhalte eines Maker-Moduls können durchschnittlich in 10 Stunden erlernt/erarbeitet werden
-- **Ausrüstung ist vorhanden** Die Makermodule beinhalten nur Geräte, Werkzeuge und Materialine welche im Makerspace zur Verfügung stehen. 
-- **Voraussetzungen** Mit Ausnahme der Einstiegsmodule, bauen alle Maker-Module auf tieferen Modulen auf.
-- **Der nächste Schritt ist definiert** Damit das Entdecken nicht ins Stocken gerät, erhalten die JuniorMakers empfehlungen, welche Module als nächstes angepackt werden können.
-- **Ausschweifen erlaubt** Mehrere Voraussetzungen können zu einem MakerModul führen und jedes Modul kann auf mehrere Module weiterverweisen.
+1. **Vorschulkinder (Erste Gruppe):** "Mini Maker"
+   - Diese Bezeichnung ist niedlich und einprägsam und spiegelt den Einstieg der jüngsten Gruppe in die Welt des Machens und Tüftelns wider.
+2. **Kinder der 1. bis 3. Primarschule (Zweite Gruppe):** "Junge Erfinder"
+   - Dieser Name betont die Neugier und den Innovationsgeist der Kinder in dieser Altersgruppe und ermutigt sie, ihre eigenen Ideen zu entwickeln und umzusetzen.
+3. **Kinder der 4. bis 6. Primarschule (Dritte Gruppe):** "STEM Entdecker"
+   - Mit diesem Titel wird der Fokus auf die Erkundung der STEM-Bereiche (Wissenschaft, Technologie, Ingenieurwesen und Mathematik) gelegt und die Kinder werden motiviert, tiefer in diese Themen einzutauchen.
+4. **Kinder der Oberstufe (Vierte Gruppe):** "Innovationsführer"
+   - Diese Bezeichnung spiegelt das fortgeschrittene Niveau und die Fähigkeit der älteren Kinder wider, Führung in Projekten zu übernehmen, innovative Lösungen zu entwickeln und vielleicht sogar jüngere Mitglieder im Makerspace zu leiten und zu inspirieren.
+
+### Wissens-Sphären
+Grundbaustein des selbstständigen Entdeckens der MINT-Welt ist die Wissens-Sphäre
+Eine Wissens-Sphäre vereint grundsätzlich folgende Eigenschaften: 
+
+- **Identifikation** Jede Sphäre trägt einen eindeutigen Namen, eine Versionssnummer und ein Logo.
+- **Definierter Zeitbedarf** Die Inhalte einer Wissens-Sphäre können durchschnittlich in 10 Stunden erlernt/erarbeitet werden.
+- **Empfohlene Altersgruppe** Für jede Sphäre werden Altersempfehlungen abgegeben. Eine Sphäre kann für mehrere Alterssegmente freigegeben werden.
+- **Ausrüstung ist vorhanden** Die Wissen-Sphären beinhalten nur Geräte, Werkzeuge und Materialien welche im Makerspace zur Verfügung stehen. 
+- **Voraussetzungen** Mit Ausnahme der Einstiegssphären, bauen alle Maker-Module auf tieferen Modulen auf.
+- **Der nächste Schritt ist definiert** Damit das Entdecken nicht ins Stocken gerät, erhalten die JuniorMakers empfehlungen, welche Sphären als nächstes angepackt werden können.
+- **Ausschweifen erlaubt** Mehrere Voraussetzungen können zu einem Wissen-Sphäre führen und jede Sphäre kann auf mehrere Sphären weiterverweisen. So entsteht ein Netz von Entdeckungsmöglichkeiten
 
 ### Ausstattung eines Juniormaker.space
 Wir stellen eine Liste der nötigen Gerätschaften, Werkzeuge, Materialien und Anforderungen an die Infrastruktur zusammen. Darin enthalten sind Schätzungen zum nötigen Budget.
