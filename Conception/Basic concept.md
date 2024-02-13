@@ -1,5 +1,5 @@
 # Konzept für ein universelles Open-Source MINT-Bildungsprodukt
-[Anschauungsbild](../Conception/Themenbild%20JuniorMakers.webp)
+![Anschauungsbild](../Conception/Themenbild%20JuniorMakers.webp)
 ## Zielgruppe
 Das Produkt richtet sich an Kinder und Jugendliche im Alter von 8 bis 18 Jahren. Es soll für Schulen, Gemeinden und Makerspaces weltweit zugänglich und anpassbar sein, um eine breite und vielfältige Zielgruppe zu erreichen.
 
