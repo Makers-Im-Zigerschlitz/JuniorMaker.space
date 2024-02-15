@@ -31,7 +31,7 @@ Grundbaustein des selbstständigen Entdeckens der MINT-Welt ist die Wissens-Sph�
 Eine Wissens-Sphäre vereint grundsätzlich folgende Eigenschaften: 
 
 - **Identifikation** Jede Sphäre trägt einen eindeutigen Namen, eine Versionssnummer und ein Logo.
-- **Definierter Zeitbedarf** Die Inhalte einer Wissens-Sphäre können durchschnittlich in 10 Stunden erlernt/erarbeitet werden.
+- **Definierter Zeitbedarf** Die Inhalte einer Wissens-Sphäre können durchschnittlich in einer Stunde erlernt/erarbeitet werden.
 - **Empfohlene Altersgruppe** Für jede Sphäre werden Altersempfehlungen abgegeben. Eine Sphäre kann für mehrere Alterssegmente freigegeben werden.
 - **Ausrüstung ist vorhanden** Die Wissen-Sphären beinhalten nur Geräte, Werkzeuge und Materialien welche im Makerspace zur Verfügung stehen. 
 - **Voraussetzungen** Mit Ausnahme der Einstiegssphären, bauen alle Maker-Module auf tieferen Modulen auf.
